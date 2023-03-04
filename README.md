@@ -1,3 +1,3 @@
-# pythonGameSnake \n
-Уроки Python \n
-Разбор игры Змейка по шагам \n
+# pythonGameSnake 
+Уроки Python\
+Разбор игры "Змейка по шагам"
